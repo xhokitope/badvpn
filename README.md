@@ -23,7 +23,7 @@ badvpn-udpgw --listen-addr 127.0.0.1:7300 --max-clients 512 --max-connections-fo
 
 * @XhokitoPe
 
-* Compatible con Ununtu 14, 16, 18
+* Compatible con Ubuntu 14, 16, 18, 20, 22
 
 * NUNCA DEJES DE APRENDER
 
